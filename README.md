@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adama-Doh
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in developing Web and mobile apps
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate with anyone whose working on a cool project
 - 📫 How to reach me ...
